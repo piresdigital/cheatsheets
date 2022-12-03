@@ -1,4 +1,4 @@
-![Django Cheatsheets](https://github.com/piresdigital/cheatsheets/assets/django.jpg)
+![Django Cheatsheets](https://github.com/piresdigital/cheatsheets/raw/main/assets/django.jpg)
 
 # Django Cheatsheet
 
